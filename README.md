@@ -20,6 +20,6 @@ After replacing the 9th graders scores:
 - District summary statistics are not significantly affected, as only 461 out of 39,170 students are modified in the data (1.25% overall)
 - Effects on the school summary are most noticable in % passing math, % passing reading, and % passing overall
 - Thomas High School becomes the #2 top performing school behind Cabrera High School.
-- Thomas High Schools falls in the Medium tier for school spending.
+- Thomas High Schools falls in the Medium tier for school spending, average 638 per student.
 - Thomas High Schools falls below the average for the medium tier for scores by school size.
 - Thomas High School's passing scores by type are more typical for a charter school than the district school level performance it had before.

@@ -2,7 +2,7 @@
 
 ## Summary
 
-The purpose of this project was to use Pandas dataframes to organize and condense various facets of school district standardized testing data and to extract various tables of information from it. In our scenario, a section of our dataset was suspected to have been tampered with, so we had to nullify the suspicious data, and build our tables so that the suspicious data does not alter or corrupt our findings or the rest of the dataset.
+The purpose of this project was to use Pandas dataframes to organize and condense facets of school district standardized testing data and to extract various tables of information from it. In our scenario, a section of our dataset was suspected to have been tampered with, so we had to nullify the suspicious data, and build our tables so that the suspicious data does not alter or corrupt our findings or the rest of the dataset.
 
 ## Analysis and Conclusions
 
